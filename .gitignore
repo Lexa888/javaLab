@@ -5,11 +5,6 @@
 bin/
 .settings/
 
-# Eclipse files
-.project
-.classpath
-.metadata/
-
 # IntelliJ
 .idea/
 *.iml
@@ -19,3 +14,4 @@ atlassian-ide-plugin.xml
 
 # Maven files
 target/
+!target/task1-1.0-SNAPSHOT.jar
