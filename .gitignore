@@ -14,4 +14,4 @@ atlassian-ide-plugin.xml
 
 # Maven files
 target/
-!target/task1-1.0-SNAPSHOT.jar
+!*.jar
